@@ -21,9 +21,3 @@ The weather analysis allowed us to answer the following questions:
 ## Output 
 All data frames created within the weather analysis are stored in the Output folder.
 
-=======
-## Data Sources
-The two data sources for this project are listed below:
-## *https://static.bc-edx.com/data/web/mars_news/index.html
-## *https://static.bc-edx.com/data/web/mars_facts/temperature.html
->>>>>>> 3df7275227bb43b07e9190d5c353690f3c2a8567
